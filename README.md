@@ -15,8 +15,8 @@ Open hardware and embedded firmware.
 Student working on embedded hardware projects, mostly cheap RISC-V and ARM microcontrollers.
 
 <p align="center">
-  <img src="./assets/photo1.png" width="24%">
-  <img src="./assets/photo2.png" width="24%">
+  <img src="https://github.com/PhenixTech/Hydrogen/blob/main/images/IRL-ON.jpg" width="24%">
+  <img src="https://github.com/PhenixTech/Hydrogen/blob/main/images/IRL-BK.jpg" width="24%">
   <img src="./assets/photo3.png" width="24%">
   <img src="./assets/photo4.png" width="24%">
 </p>
