@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PhenixTech/PhenixTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# PhenixTech
 
-Here are some ideas to get you started:
+Open hardware and embedded firmware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=phenixtech&style=flat-square&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+
+[phenixtech.fr](https://phenixtech.fr)
+
+</div>
+
+---
+
+Student working on embedded hardware projects, mostly cheap RISC-V and ARM microcontrollers.
+
+<p align="center">
+  <img src="./assets/photo1.png" width="24%">
+  <img src="./assets/photo2.png" width="24%">
+  <img src="./assets/photo3.png" width="24%">
+  <img src="./assets/photo4.png" width="24%">
+</p>
